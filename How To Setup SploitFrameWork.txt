@@ -1,0 +1,10 @@
+To   Setup   Sploit   You   Must   First   Follow   These   Steps
+
+
+
+
+1. Downlaod Python 3 - > https://www.python.org/
+
+2. Then Open Command Prompt And Type "cd" Then The Path that SploitFramework.py Is In (For Example If The SploitFramework.py File Is In Desktop Type "cd Desktop")
+
+3. Once The Path Is Set Type "SploitFramework.py" And There You Go . . .
